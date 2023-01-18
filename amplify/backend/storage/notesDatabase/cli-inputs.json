@@ -1,0 +1,10 @@
+{
+  "resourceName": "notesDatabase",
+  "tableName": "notes",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "number"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
